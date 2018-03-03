@@ -6,3 +6,4 @@
 5. http://www.spoj.com/problems/SUMSUMS/ - Summing Sums ( from USACO China 2007 )
 6. http://www.spoj.com/problems/FIBOSUM/ - Fibonacci Sum
 7. http://uva.onlinejudge.org/external/111/11149.html - Power of Matrix
+8. http://acm.hdu.edu.cn/showproblem.php?pid=3483 - :ok_hand:
